@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adrireid
-- 👀 Front end web develor
+- 👀 Front end web developer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects with other software engineers
 - 📫 Check out my portfolio at adrireid.com
