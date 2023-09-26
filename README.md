@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrireid
 - 👀 Software Engineer-- Front-End development
-- 🌱 I have experience with HTML, CSS, Javascript, and currently studying for the AWS Cloud Practicioner certification!
+- 🌱 I am skilled in HTML, CSS, Javascript, and currently studying for the AWS Cloud Practicioner certification!
 - 💞️ I’m looking to collaborate on projects with other software engineers
 - 📫 Check out my portfolio at adrireid.com
 
